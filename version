@@ -1,0 +1,5 @@
+查看linux版本号
+
+ubuntu用命令 uname -a 或uname -v
+
+centos6.5用命令 cat /etc/issue
