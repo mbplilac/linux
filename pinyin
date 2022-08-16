@@ -1,0 +1,13 @@
+ubuntu16.04安装中文输入法(简单两步即可成功)
+
+第一步: Ctrl+Alt+T,打开Terminal,在命令行输入 sudo apt install ibus-sunpinyin ;
+遇到选择,输入y,等待安装完成后.
+第二步:重启电脑;
+第三步:点击桌面右上角的En小图标,选择Text Entry Settings打开;
+第四步:点击左下角的+按钮;在输入框输入pinyin;选择Chinese(SunPinyin)(IBus),点击右下角的Add;即可
+第五步:点击En按钮选择SunPinyin,即可.
+第六步:即可进行中文输入了.
+
+快捷键切换中英文输入法: Shift键
+英文大小写切换快捷键是: CapsLock键
+ 
