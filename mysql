@@ -1,0 +1,5 @@
+mysql8
+
+创建root密码
+
+alter user 'root'@'localhost' identified with mysql_native_password by '新密码';
